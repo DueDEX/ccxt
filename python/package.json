@@ -532,7 +532,9 @@
     "NovaDAX",
     "exchange.ripio.com",
     "Ripio",
-    "huobi.com"
+    "huobi.com",
+    "duedex.com",
+    "DueDEX"
   ],
   "collective": {
     "type": "opencollective",

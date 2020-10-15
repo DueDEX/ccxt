@@ -11,6 +11,7 @@
     "coinmarketcap": { "skip": true },
     "coss":          { "skip": true },
     "digifinex":     { "skip": true },
+    "duedex":        { "skip": true },
     "eterbase":      { "skip": true },
     "ethfinex":      { "skip": true },
     "exx":           { "skip": true },
